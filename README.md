@@ -1,4 +1,4 @@
-# Catalyst Workflow on AWS
+# Saga orchestration with Catalyst Workflow
 
 This repo contains a Python app that shows you how to implement the [AWS reference architecture for Saga orchestration](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/implement-the-serverless-saga-pattern-by-using-aws-step-functions.html?did=pg_card&trk=pg_card) using Catalyst Workflow.
 
