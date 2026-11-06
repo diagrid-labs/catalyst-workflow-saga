@@ -71,4 +71,4 @@ docker built -t <REPO>/<NAME>:latest .
 
 ### Bringing your own database and messaging services
 
-This example uses the Diagrid fully managed database and pub/sub brokers for ease of use and easy set up experience. If you want to use your own cloud services, [read here](https://docs.diagrid.io/operate/).
+This example uses the Diagrid fully managed database and pub/sub brokers for ease of use and easy set up experience. If you want to use your own cloud services, [read here](https://docs.diagrid.io/concepts/what-is-diagrid/).
